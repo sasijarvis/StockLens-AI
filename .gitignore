@@ -1,0 +1,5 @@
+.env
+logs/
+/tmp/nse_cookies.txt
+.claude
+ai-stock-platform.zip
